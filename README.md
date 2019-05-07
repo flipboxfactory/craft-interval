@@ -4,14 +4,14 @@
 [![Build Status](https://img.shields.io/travis/flipboxfactory/craft-interval/master.svg?style=flat-square)](https://travis-ci.org/flipboxfactory/craft-interval)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/flipboxfactory/craft-interval.svg?style=flat-square)](https://scrutinizer-ci.com/g/flipboxfactory/craft-interval/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/flipboxfactory/craft-interval.svg?style=flat-square)](https://scrutinizer-ci.com/g/flipboxfactory/craft-interval)
-[![Total Downloads](https://img.shields.io/packagist/dt/flipboxfactory/interval.svg?style=flat-square)](https://packagist.org/packages/flipboxdigital/interval)
+[![Total Downloads](https://img.shields.io/packagist/dt/flipboxfactory/craft-interval.svg?style=flat-square)](https://packagist.org/packages/flipboxdigital/craft-interval)
 
 ## Installation
 
 To install, use composer:
 
 ```
-composer require flipboxfactory/interval
+composer require flipboxfactory/craft-interval
 ```
 
 ## Testing
