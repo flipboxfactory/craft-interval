@@ -94,7 +94,7 @@ class DateIntervalHelper
             $timeComponents[] = $minutes.' '.($minutes == 1 ? Craft::t('app', 'minute') : Craft::t('app', 'minutes'));
         }
 
-        if ($seconds) {
+        if (empty($timeComponents)) {
             $timeComponents[] = $seconds.' '.($seconds == 1 ? Craft::t('app', 'second') : Craft::t('app', 'seconds'));
         }
 
